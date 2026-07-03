@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "name": "osnay-beauty",
-  "routes": [
-    { "src": "/", "dest": "/osnay-beauty-demo.html" },
-    { "src": "/panel", "dest": "/osnay-panel.html" },
-    { "src": "/qr", "dest": "/osnay-qr.html" }
-  ]
-}
